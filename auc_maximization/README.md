@@ -13,4 +13,4 @@ Create 'data' directory in the current path by `mkdir data` and put all the data
 ```
     python main.py --methods [algorithm] 
 ```
-where the argument 'algorithm'  can  be chosen from [accbo, bo-rep, saba, ma-soba, stocbio, sustain, ttsa, vrbo]. 
+where the argument `algorithm`  can  be chosen from [accbo, bo-rep, saba, ma-soba, stocbio, sustain, ttsa, vrbo]. 

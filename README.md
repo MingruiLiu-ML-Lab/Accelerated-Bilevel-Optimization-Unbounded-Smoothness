@@ -14,6 +14,7 @@ This is code for NeurIPS 2024 paper "An Accelerated Algorithm for Stochastic Bil
 
 ## Citation
 If you found this repository helpful, please cite our paper:
+
 ```
 @inproceedings{gong2024accelerated,
 title={An Accelerated Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness},
