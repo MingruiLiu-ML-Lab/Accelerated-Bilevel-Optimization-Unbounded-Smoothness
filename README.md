@@ -20,7 +20,7 @@ If you found this repository helpful, please cite our paper:
 @article{gong2024accelerated,
   title={An accelerated algorithm for stochastic bilevel optimization under unbounded smoothness},
   author={Gong, Xiaochuan and Hao, Jie and Liu, Mingrui},
-  journal={Advances in Neural Information Processing Systems},
+  journal={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024}
 }
 
